@@ -6,7 +6,7 @@
 #### Heading 4
 
 __bold__
-__foo
+__foo__
 *italic*
 *bar*
 
