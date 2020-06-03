@@ -9,21 +9,22 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+not**bold**
+is*italic*
+is_italic_
+
+**bold
+and bold**
 
 ***This will be bold italic***
-___This is also bold italic___
 
 **&trade; &#8482; &#xb3;**
 
 __&trade; &#8482; &#xb3;__
 
-is*italic*
-not_italic_
-
-**bold
-and bold**
-
 _You **can** combine them_
+
+*&trade; &#8482; &#xb3;*
 
 
 * Item 1
@@ -48,6 +49,8 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+3 > 1
 
 I think you should use an
 `<addr>` element here instead.
