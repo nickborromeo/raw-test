@@ -13,6 +13,13 @@ __This will also be bold__
 ***This will be bold italic***
 ___This is also bold italic___
 
+**&trade; &#8482; &#xb3;**
+
+__&trade; &#8482; &#xb3;__
+
+is*italic*
+not_italic_
+
 **bold
 and bold**
 
